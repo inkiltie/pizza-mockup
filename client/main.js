@@ -5,4 +5,6 @@ import '/imports/startup/both';
 
 import '/imports/ui/stylesheets/pizza.min.css';
 
+console.log("Author: Nikita Tolpekin");
+
 BlazeLayout.setRoot('body');

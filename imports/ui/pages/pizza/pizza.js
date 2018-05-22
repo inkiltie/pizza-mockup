@@ -3043,4 +3043,6 @@ Template.pizza.onRendered(function() {
                                                     };
 
                                                 }));
+
+                                                console.log("Author: Nikita Tolpekin");
                                             });
