@@ -21,7 +21,7 @@ Template.pizza.onRendered(function() {
                     slidesToShow: piz.data('slides-to-show') || 1,
                     slidesToScroll: piz.data('slides-to-scroll') || 1,
                     centerMode: piz.data('center-mode') || false,
-                    autoplay: piz.data('autoplay') || false,
+                    autoplay: piz.data('autoplay') || true,
                     autoplaySpeed: piz.data('autoplay-speed') || 3000
                 });
             });
