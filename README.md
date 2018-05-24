@@ -2,4 +2,4 @@
 
 ### Meteor Blaze
 
-Mockup implementation as a take-home assignment for the Wiivv company.
+Mockup implementation as a take-home assignment.
